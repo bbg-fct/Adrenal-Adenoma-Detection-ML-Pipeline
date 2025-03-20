@@ -1,0 +1,8 @@
+ipykernel 
+jupyter
+matplotlib
+plotly
+seaborn
+SimpleITK
+pyradiomics
+xgboost
